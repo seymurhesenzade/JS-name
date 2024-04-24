@@ -1,0 +1,37 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.inputs {
+  margin-left: 400px;
+  margin-top: 50px;
+}
+input {
+  padding: 0.2rem;
+  margin-top: 5px;
+}
+.btn {
+  width: 100px;
+  height: 40px;
+  margin-top: 10px;
+  color: white;
+  border-radius: 7px;
+  background-color: rgb(17, 17, 184);
+  cursor: pointer;
+}
+.btn:hover {
+  background-color: blue;
+}
+.btnlogin {
+  width: 1100px;
+  height: 40px;
+  margin-top: 50px;
+  color: white;
+  border-radius: 7px;
+  background-color: rgb(36, 36, 253);
+  cursor: pointer;
+}
+.btnlogin:hover {
+  background-color: blue;
+}
